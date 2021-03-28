@@ -2,7 +2,7 @@ import mqtt from '../../utils/mqtt/mqtt.min.js';
 import QQMapWX from '../../utils/map/qqmap-wx-jssdk.min.js';
 
 //连接的服务器域名，注意格式！！！ 867959033013358
-const host = 'wxs://aligenie.xuhongv.com/mqtt';
+const host = 'wxs://aligenie.xuhong.com/mqtt';
 var qqmapsdk;
 
 // key：GARBZ-PQ4EW-6CUR6-OJJWY-2APKQ-HEFFK
