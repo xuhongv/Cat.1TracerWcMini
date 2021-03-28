@@ -1,33 +1,10 @@
-﻿
+﻿﻿
 
 
 &nbsp; &nbsp; &nbsp; 微信物联网生态主要分在**微信硬件开发平台**与**腾讯物联开发平台**，前者已经停止维护，但依然有着很大的学习价值，而后者作为主推的平台，集成很多功能，包括从微信小程序实现配网到控制；
 
 &nbsp; &nbsp; &nbsp; 为了兼顾更多的朋友和自己的学习笔记，我将会一直更新此专题笔记，欢迎关注[本人CSDN半颗心脏](https://blog.csdn.net/xh870189248)，带你走进前沿领域，学习前沿技术！
 
-  **自搭微信服务器&&微信硬件开发平台**
-
-> [【<font color=red>微信小程序控制硬件**第1篇** </font> 】 全网首发，借助 emq 消息服务器带你如何搭建微信小程序的mqtt服务器，轻松控制智能硬件！](https://blog.csdn.net/xh870189248/article/details/84070944)
-> [【<font color=red>微信小程序控制硬件**第2篇** </font> 】 开始微信小程序之旅，导入小程序Mqtt客户端源码，实现简单的验证和通讯于服务器！](https://blog.csdn.net/xh870189248/article/details/84231666)
->  [【<font color=red>微信小程序控制硬件**第3篇** </font> 】 从软件到硬件搭建一个微信小程序控制esp8266的项目，自定义通讯协议，为面试职位和比赛项目加分！](https://blog.csdn.net/xh870189248/article/details/84580239)
->  [【<font color=red>微信小程序控制硬件**第4篇** </font> 】 深度剖析微信公众号配网 Airkiss 原理与过程，esp8266如何自定义回调参数给微信，实现绑定设备第一步！](https://blog.csdn.net/xh870189248/article/details/84679910)
->  [【<font color=red>微信小程序控制硬件**第5篇** </font> 】理清接下来必须走的架构思想，学习下 JavaScript 的观察者模式，在微信小程序多页面同时接收到设备推送事件！](https://blog.csdn.net/xh870189248/article/details/86695966)
-  >  [【<font color=red>微信小程序控制硬件**第6篇** </font> 】服务器如何集成七牛云存储SDK，把用户自定义设备图片存储在第三方服务器！](https://blog.csdn.net/xh870189248/article/details/87808425)
-  >  [【<font color=red>微信小程序控制硬件**第7篇**  </font> 】动起来做一个微信小程序Mqtt协议控制智能硬件的框架，为自己心里全栈工程师梦想浇水！！](https://blog.csdn.net/xh870189248/article/details/88718302)
-  >  [【<font color=red>微信小程序控制硬件**第8篇** </font> 】微信小程序以 websocket 连接阿里云IOT物联网平台mqtt服务器，封装起来使用就是这么简单！](https://blog.csdn.net/xh870189248/article/details/91490697)
-  >  [【<font color=red>微信小程序控制硬件**第9篇**</font> 】巧借阿里云物联网平台的免费连接，从微信小程序颜色采集控制 esp8266 输出七彩灯效果，中秋节来个直播如何？！](https://blog.csdn.net/xh870189248/article/details/100668416)
-  >  [【<font color=blue>微信公众号控制硬件 **第10篇**</font>  】如何在微信公众号网页实现连接mqtt服务器教程！！](https://blog.csdn.net/xh870189248/article/details/100738444)
-  >  [【<font color=red>微信小程序控制硬件 **第11篇**</font>  】全网首发，微信小程序ble蓝牙控制esp32，实现无需网络也可以控制亮度开关。](https://blog.csdn.net/xh870189248/article/details/101849759)
-   >  [【<font color=red>微信小程序控制硬件 **第12篇**</font>  】微信小程序蓝牙控制硬件应如何开发？为您全面解析微信小程序蓝牙API的使用。](https://blog.csdn.net/xh870189248/article/details/104490232)
->  [【<font color=red>微信小程序控制硬件 **第13篇**</font>  】【AT篇】与硬件平台无关，微信小程序 AP 配网安信可 Wi-Fi 模块入网示例。](https://blog.csdn.net/xh870189248/article/details/107462477)
->  [【<font color=red>微信小程序控制硬件 **第14篇**</font>  】微信小程序腾讯地图控制 Cat.1模组 安信可CA-01 基站定位显示。](https://blog.csdn.net/xh870189248/article/details/115213790)
-
-  **腾讯物联开发平台**
-
->  [【<font color=green>腾讯连连 - 腾讯物联开发平台 第1篇</font>  】腾讯官方静鸡鸡发布的“腾讯连连”终于来了，按照官方教程教你在微信小程序实现配网、控制 ESP8266啦！](https://blog.csdn.net/xh870189248/article/details/104932526)
->  [【<font color=green>腾讯连连 - 腾讯物联开发平台 第2篇</font>  】深度解析微信小程序smartconfig配网原理，安信可ESP-12S直连腾讯物联开发平台！！](https://blog.csdn.net/xh870189248/article/details/106867631)
->  [【<font color=green>腾讯连连 - 腾讯物联开发平台 第3篇</font>  】安信可IoT微信小程序全面开源，小程序上实现一键配网+控制+绑定！](https://blog.csdn.net/xh870189248/article/details/107140464)
->  [【<font color=green>腾讯连连 - 腾讯物联开发平台 第4篇</font>  】ESP8266 RTOS  C SDK二次开发接入腾讯物联网开发平台的笔记分享！](https://blog.csdn.net/xh870189248/article/details/111131091)
 
 # 一、前言
 &nbsp; &nbsp; &nbsp; 最近项目有用到4G Cat.1 模组，于是乎，从业务逻辑中复盘做出了一个应用开发案列，供大家分享。
